@@ -1,0 +1,32 @@
+╔════════════════════════════════════════════════════════════╗
+║         AI Chatbot - Enhanced Edition 🤖                  ║
+╚════════════════════════════════════════════════════════════╝
+
+Hello! I'm your intelligent AI assistant! 👋
+
+✨ NEW FEATURES:
+  💾 Save/Load Chat History - Keep your conversations!
+  🧠 Bot Learning - Teach me new things!
+  📊 Message Counter - Track your activity
+
+💬 I can help you with:
+  • AI, Machine Learning, Programming
+  • General questions and conversations
+  • Learning new topics from you!
+
+🎓 Teach me something new:
+  Type: learn: [keyword] = [response]
+  Example: learn: python = Python is a programming language
+
+💡 Try these:
+  • "Hi" or "Hello"
+  • "What is AI?"
+  • "How to teach you?"
+  • Teach me something new!
+
+Type your message and press Enter or click Send!
+────────────────────────────────────────────────────────────
+
+You [01:43:28]: hii
+🤖 Bot [01:43:28]: Hi! Nice to meet you! 👋
+
