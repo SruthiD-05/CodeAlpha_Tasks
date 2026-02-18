@@ -41,5 +41,6 @@ chat_history.txt
 
 ## Author
 Sruthi Divakarla
+
 Java Developer Intern  
 CodeAlpha Internship Program
